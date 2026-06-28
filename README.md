@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/darshanshel1208-boop/dsa/tree/master/0189-rotate-array) |
+| [0292-nim-game](https://github.com/darshanshel1208-boop/dsa/tree/master/0292-nim-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -35,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/darshanshel1208-boop/dsa/tree/master/0349-intersection-of-two-arrays) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/darshanshel1208-boop/dsa/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/darshanshel1208-boop/dsa/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
