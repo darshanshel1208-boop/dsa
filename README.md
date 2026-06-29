@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/darshanshel1208-boop/dsa/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/darshanshel1208-boop/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/darshanshel1208-boop/dsa/tree/master/0704-binary-search) |
+| [3731-find-missing-elements](https://github.com/darshanshel1208-boop/dsa/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,10 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/darshanshel1208-boop/dsa/tree/master/0349-intersection-of-two-arrays) |
+| [3731-find-missing-elements](https://github.com/darshanshel1208-boop/dsa/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/darshanshel1208-boop/dsa/tree/master/0349-intersection-of-two-arrays) |
+| [3731-find-missing-elements](https://github.com/darshanshel1208-boop/dsa/tree/master/3731-find-missing-elements) |
 ## Brainteaser
 |  |
 | ------- |
