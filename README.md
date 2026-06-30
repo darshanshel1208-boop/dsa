@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/darshanshel1208-boop/dsa/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/darshanshel1208-boop/dsa/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/darshanshel1208-boop/dsa/tree/master/0349-intersection-of-two-arrays) |
+| [0485-max-consecutive-ones](https://github.com/darshanshel1208-boop/dsa/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/darshanshel1208-boop/dsa/tree/master/0704-binary-search) |
 | [3731-find-missing-elements](https://github.com/darshanshel1208-boop/dsa/tree/master/3731-find-missing-elements) |
 ## Two Pointers
