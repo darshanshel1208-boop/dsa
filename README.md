@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/darshanshel1208-boop/dsa/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/darshanshel1208-boop/dsa/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/darshanshel1208-boop/dsa/tree/master/0292-nim-game) |
 ## Binary Search
