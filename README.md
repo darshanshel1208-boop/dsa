@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/darshanshel1208-boop/dsa/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/darshanshel1208-boop/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/darshanshel1208-boop/dsa/tree/master/0704-binary-search) |
+| [1672-richest-customer-wealth](https://github.com/darshanshel1208-boop/dsa/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/darshanshel1208-boop/dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/darshanshel1208-boop/dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/darshanshel1208-boop/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -106,4 +107,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/darshanshel1208-boop/dsa/tree/master/0073-set-matrix-zeroes) |
+| [1672-richest-customer-wealth](https://github.com/darshanshel1208-boop/dsa/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
