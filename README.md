@@ -113,4 +113,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/darshanshel1208-boop/dsa/tree/master/0344-reverse-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/darshanshel1208-boop/dsa/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 <!---LeetCode Topics End-->
