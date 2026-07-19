@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/darshanshel1208-boop/dsa/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/darshanshel1208-boop/dsa/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/darshanshel1208-boop/dsa/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/darshanshel1208-boop/dsa/tree/master/0292-nim-game) |
 ## Binary Search
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/darshanshel1208-boop/dsa/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/darshanshel1208-boop/dsa/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/darshanshel1208-boop/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/darshanshel1208-boop/dsa/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/darshanshel1208-boop/dsa/tree/master/0349-intersection-of-two-arrays) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/darshanshel1208-boop/dsa/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/darshanshel1208-boop/dsa/tree/master/0344-reverse-string) |
 | [1446-consecutive-characters](https://github.com/darshanshel1208-boop/dsa/tree/master/1446-consecutive-characters) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/darshanshel1208-boop/dsa/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
