@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/darshanshel1208-boop/dsa/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/darshanshel1208-boop/dsa/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/darshanshel1208-boop/dsa/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/darshanshel1208-boop/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/darshanshel1208-boop/dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/darshanshel1208-boop/dsa/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/darshanshel1208-boop/dsa/tree/master/0136-single-number) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/darshanshel1208-boop/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0349-intersection-of-two-arrays](https://github.com/darshanshel1208-boop/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/darshanshel1208-boop/dsa/tree/master/0704-binary-search) |
 ## Hash Table
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/darshanshel1208-boop/dsa/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/darshanshel1208-boop/dsa/tree/master/0074-search-a-2d-matrix) |
 | [1672-richest-customer-wealth](https://github.com/darshanshel1208-boop/dsa/tree/master/1672-richest-customer-wealth) |
 ## String
 |  |
